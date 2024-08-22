@@ -1,6 +1,5 @@
 numpy 
 pandas
-pickle
-stkl
+nltk
 scikit-learn
 requests
